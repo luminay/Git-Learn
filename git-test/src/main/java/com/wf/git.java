@@ -12,5 +12,6 @@ package com.wf;
 public class git {
     public static void main(String[] args) {
         System.out.println("share to gitHub");
+        System.out.println("pull test");
     }
 }
