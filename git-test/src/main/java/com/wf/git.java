@@ -1,0 +1,16 @@
+package com.wf;
+
+/**
+ * ClassName: git
+ * Package: com.wf
+ * Description:
+ *
+ * @Author XiaoFan
+ * @Create 2023/6/19 15:20
+ * @Version 1.0
+ */
+public class git {
+    public static void main(String[] args) {
+        System.out.println("share to gitHub");
+    }
+}
