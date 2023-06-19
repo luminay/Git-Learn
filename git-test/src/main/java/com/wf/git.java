@@ -17,5 +17,6 @@ public class git {
         System.out.println("push test2");
         System.out.println("push test3");
         System.out.println("push test4");
+        System.out.println("ssh test");
     }
 }
